@@ -1,5 +1,5 @@
 # GST Billing Application
-# Student: Manav (22IT005)
+# Manav (22IT005)
 
 A Flutter application for managing GST billing and inventory.
 
